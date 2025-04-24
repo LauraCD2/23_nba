@@ -1,4 +1,4 @@
-# estadisticos
+# Análisis Estadístico del Rendimiento en la temporada regular 2023 de la NBA
 
 * Oscar Miguel Ortega Lozano - 2220528
 * Juan David Toloza Parada - 2221067

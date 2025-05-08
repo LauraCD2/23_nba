@@ -2,6 +2,9 @@
 
 https://www.nba.com/news/nba-roster-survey-facts-to-know-for-the-2022-23-season
 
+https://www.sportingnews.com/es/nba/news/temporada-2022-2023-predicciones-pronosticos-premios-playoffs-picks/jhjodjnlapd5x5wb6tegs88y
+
+
 * Oscar Miguel Ortega Lozano - 2220528
 * Juan David Toloza Parada - 2221067
 * Laura Camila Diaz-Delgado - 2220100

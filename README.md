@@ -1,5 +1,7 @@
 # Análisis Estadístico del Rendimiento en la temporada regular 2023 de la NBA
 
+https://www.nba.com/news/nba-roster-survey-facts-to-know-for-the-2022-23-season
+
 * Oscar Miguel Ortega Lozano - 2220528
 * Juan David Toloza Parada - 2221067
 * Laura Camila Diaz-Delgado - 2220100
